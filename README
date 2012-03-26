@@ -1,0 +1,5 @@
+This Haskell script is for plotting IAU constellations in several projections, together with equatorial, galactic, and supergalactic coordinate grids. The constellation data are taken from http://www.iau.org/public/constellations/ .
+
+type `make install` to install requisite hackages.
+
+type `make` to create example .eps files (you need ruby and gnuplot.)
